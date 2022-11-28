@@ -1,0 +1,14 @@
+[INFO ] 2022-11-28 22:34:06.887 [main] BaseClass - Connected To Oracle DataBase Successfully
+[INFO ] 2022-11-28 22:34:09.746 [main] BaseClass - Connected To Oracle DataBase Successfully
+[INFO ] 2022-11-28 22:34:11.876 [main] BaseClass - Connected To Oracle DataBase Successfully
+[INFO ] 2022-11-28 22:34:12.283 [main] BaseClass - Connected To Oracle DataBase Successfully
+[INFO ] 2022-11-28 22:34:12.314 [main] BaseClass - 93     Operations      null
+[INFO ] 2022-11-28 22:34:12.315 [main] BaseClass - 92     Operations      null
+[INFO ] 2022-11-28 22:34:12.316 [main] BaseClass - 90     Operations      null
+[INFO ] 2022-11-28 22:34:12.317 [main] BaseClass - 89     Operation      Bangelore
+[INFO ] 2022-11-28 22:34:12.318 [main] BaseClass - 10     ACCOUNTING      NEW YORK
+[INFO ] 2022-11-28 22:34:12.319 [main] BaseClass - Test Case Passed :ACCOUNTING
+[INFO ] 2022-11-28 22:34:12.319 [main] BaseClass - 20     RESEARCH      DALLAS
+[INFO ] 2022-11-28 22:34:12.321 [main] BaseClass - 30     SALES      CHICAGO
+[INFO ] 2022-11-28 22:34:12.322 [main] BaseClass - 40     OPERATIONS      BOSTON
+[INFO ] 2022-11-28 22:34:12.379 [main] BaseClass - Connected To Oracle DataBase Successfully

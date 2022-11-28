@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T22:34:01 IST" name="DataBaseTest" finished-at="2022-11-28T22:34:12 IST" duration-ms="10848">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T22:34:01 IST" name="Testing" finished-at="2022-11-28T22:34:12 IST" duration-ms="10848">
+      <class name="com.databaseframe.testcases.TC004_UpdateDataTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.databaseframe.testcases.TC004_UpdateDataTest@40ef3420]" started-at="2022-11-28T22:34:02 IST" name="setUp" finished-at="2022-11-28T22:34:06 IST" duration-ms="4294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="updateTest()[pri:0, instance:com.databaseframe.testcases.TC004_UpdateDataTest@40ef3420]" started-at="2022-11-28T22:34:06 IST" name="updateTest" finished-at="2022-11-28T22:34:09 IST" duration-ms="2698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.databaseframe.testcases.TC004_UpdateDataTest@40ef3420]" started-at="2022-11-28T22:34:09 IST" name="tearDown" finished-at="2022-11-28T22:34:09 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.databaseframe.testcases.TC004_UpdateDataTest -->
+      <class name="com.databaseframe.testcases.TC003_InsetDataTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.databaseframe.testcases.TC003_InsetDataTest@7334aada]" started-at="2022-11-28T22:34:11 IST" name="setUp" finished-at="2022-11-28T22:34:11 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="insertData()[pri:0, instance:com.databaseframe.testcases.TC003_InsetDataTest@7334aada]" started-at="2022-11-28T22:34:11 IST" name="insertData" finished-at="2022-11-28T22:34:12 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insertData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.databaseframe.testcases.TC003_InsetDataTest@7334aada]" started-at="2022-11-28T22:34:12 IST" name="tearDown" finished-at="2022-11-28T22:34:12 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.databaseframe.testcases.TC003_InsetDataTest -->
+      <class name="com.databaseframe.testcases.TC002_RetriveSingleDataTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.databaseframe.testcases.TC002_RetriveSingleDataTest@1d9b7cce]" started-at="2022-11-28T22:34:12 IST" name="setUp" finished-at="2022-11-28T22:34:12 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sigleDataTest()[pri:0, instance:com.databaseframe.testcases.TC002_RetriveSingleDataTest@1d9b7cce]" started-at="2022-11-28T22:34:12 IST" name="sigleDataTest" finished-at="2022-11-28T22:34:12 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sigleDataTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.databaseframe.testcases.TC002_RetriveSingleDataTest@1d9b7cce]" started-at="2022-11-28T22:34:12 IST" name="tearDown" finished-at="2022-11-28T22:34:12 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.databaseframe.testcases.TC002_RetriveSingleDataTest -->
+      <class name="com.databaseframe.testcases.TC005_DeleteDataTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.databaseframe.testcases.TC005_DeleteDataTest@441772e]" started-at="2022-11-28T22:34:09 IST" name="setUp" finished-at="2022-11-28T22:34:09 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteTest()[pri:0, instance:com.databaseframe.testcases.TC005_DeleteDataTest@441772e]" started-at="2022-11-28T22:34:09 IST" name="deleteTest" finished-at="2022-11-28T22:34:11 IST" duration-ms="2036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.databaseframe.testcases.TC005_DeleteDataTest@441772e]" started-at="2022-11-28T22:34:11 IST" name="tearDown" finished-at="2022-11-28T22:34:11 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.databaseframe.testcases.TC005_DeleteDataTest -->
+      <class name="com.databaseframe.testcases.TC001_RetriveAllDataTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.databaseframe.testcases.TC001_RetriveAllDataTest@42e99e4a]" started-at="2022-11-28T22:34:12 IST" name="setUp" finished-at="2022-11-28T22:34:12 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="trialRun()[pri:0, instance:com.databaseframe.testcases.TC001_RetriveAllDataTest@42e99e4a]" started-at="2022-11-28T22:34:12 IST" name="trialRun" finished-at="2022-11-28T22:34:12 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trialRun -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.databaseframe.testcases.TC001_RetriveAllDataTest@42e99e4a]" started-at="2022-11-28T22:34:12 IST" name="tearDown" finished-at="2022-11-28T22:34:12 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.databaseframe.testcases.TC001_RetriveAllDataTest -->
+    </test> <!-- Testing -->
+  </suite> <!-- DataBaseTest -->
+</testng-results>
